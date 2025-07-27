@@ -1,1 +1,1 @@
-import java.util.*;
+ // if (age>0 && age<100)
