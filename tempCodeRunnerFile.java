@@ -1,1 +1,3 @@
- // if (age>0 && age<100)
+ // private static void card(){
+    //     System.out.println("xxxx xxxx xxxx xxxx");
+    // }
